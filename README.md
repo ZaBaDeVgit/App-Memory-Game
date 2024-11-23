@@ -2,7 +2,7 @@
 
 Este repositorio de **GitHub** contiene un proyecto de **Juego de Memoria** interactivo y divertido desarrollado por **BalaZaStudio**. El proyecto incluye los archivos principales: `index.html`, `main.js` y `styles.css`.
 
-![Vista previa del juego de memoria](https://github.com/BalaZaStudio/Image-ScreenShot/raw/main/image-1.png)
+![Vista previa del juego de memoria](https://github.com/BalaZaStudio/Image-ScreenShot/raw/main/image-3.png)
 
 ## 🚀 Funciones Principales
 
