@@ -33,7 +33,7 @@ Para ejecutar el juego de memoria en tu máquina local, sigue estos pasos:
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/BalaZaStudio/MemoryGame.git
+    git clone https://github.com/BalaZaStudio/App-Memory-Game.git
     ```
 
 2. **Abre el archivo HTML en tu navegador**:
