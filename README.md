@@ -2,7 +2,7 @@
 
 Este repositorio de **GitHub** contiene un proyecto de **Juego de Memoria** interactivo y divertido desarrollado por **BalaZaStudio**. El proyecto incluye los archivos principales: `index.html`, `main.js` y `styles.css`.
 
-![Vista previa del juego de memoria](https://github.com/BalaZaStudio/Image-ScreenShot/raw/main/image-3.png)
+![Vista previa del juego de memoria](https://github.com/ZaBaDeVgit/Image-ScreenShot/raw/main/image-3.png)
 
 ## 🚀 Funciones Principales
 
@@ -33,7 +33,7 @@ Para ejecutar el juego de memoria en tu máquina local, sigue estos pasos:
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/BalaZaStudio/App-Memory-Game.git
+    git clone https://github.com/ZaBaDeVgit/App-Memory-Game.git
     ```
 
 2. **Abre el archivo HTML en tu navegador**:
@@ -58,10 +58,10 @@ Este proyecto está licenciado bajo la [MIT License](https://opensource.org/lice
 
 Sigue a **BalaZaStudio** para más proyectos y actualizaciones:
 
-- [Facebook](https://facebook.com/BalaZaStudio) 📘
-- [Twitter](https://twitter.com/BalaZaStudio) 🐦
-- [Instagram](https://instagram.com/BalaZaStudio) 📸
-- [LinkedIn](https://linkedin.com/in/BalaZaStudio) 💼
+- [Facebook](https://facebook.com/ZaBaDeVgit) 📘
+- [Twitter](https://twitter.com/ZaBaDeVgit) 🐦
+- [Instagram](https://instagram.com/ZaBaDeVgit) 📸
+- [LinkedIn](https://linkedin.com/in/ZaBaDeVgit) 💼
 
 ---
 
